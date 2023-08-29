@@ -1,1 +1,3 @@
-"# ds_salary_proj" 
+# My first data science project
+## resource
+Just random code on Google
